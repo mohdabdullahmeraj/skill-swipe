@@ -2,8 +2,8 @@ import React from 'react';
 import { FaPlay } from 'react-icons/fa';
 
 const features = [
-  { title: "AI-Driven Team Formation", image: "ai-team.svg" },
-  { title: "Gamified Team Matching", image: "gamified-team.svg" },
+  { title: "AI Resume Improvement", image: "ai-team.svg" },
+  { title: "Swipe Based Shortlisting", image: "gamified-team.svg" },
   { title: "Daily Missions & Leaderboards", image: "leaderboards.svg" },
   { title: "AI Virtual Assistant", image: "ai-assistant.svg" },
   { title: "Daily Event Updates", image: "hiring.svg" },
