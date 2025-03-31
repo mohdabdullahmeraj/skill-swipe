@@ -6,19 +6,19 @@ import 'swiper/css/pagination';
 
 const testimonials = [
   {
-    text: "Skill Swipe has transformed hackathons for us. The AI-powered team formation helped us match with the perfect teammates based on skills. The gamified experience made the whole process fun!",
+    text: "Skill Swipe made job hunting seamless! The AI-powered matching connected me with recruiters who valued my skills, and the leaderboard feature helped me stand out.",
     author: "John Smith",
-    role: "College student (BCA)",
+    role: "BCA Graduate"
   },
   {
-    text: "As a startup, we found exceptional talent through Skill Swipe. The platform's AI matching system helped us connect with skilled students who perfectly fit our team's needs.",
+    text: "As a recruiter, finding top talent has never been easier. The AI-driven leaderboard helped us discover skilled candidates, making hiring more efficient and effective.",
     author: "Sarah Johnson",
-    role: "Startup Founder",
+    role: "HR Manager"
   },
   {
-    text: "The daily missions keep me engaged and learning new skills. It’s amazing how the platform combines learning with real-world opportunities.",
+    text: "I love how the platform keeps me engaged with challenges and real-world job opportunities. It's not just about applying for jobs—it's about growing my skills.",
     author: "Mike Brown",
-    role: "Student Developer",
+    role: "Software Developer"
   },
 ];
 

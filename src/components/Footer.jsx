@@ -9,7 +9,7 @@ function Footer() {
         <div className="min-h-[150px]">
           <h3 className="font-bold mb-4">ABOUT US</h3>
           <p className="text-sm text-gray-700">
-            Skill Swipe connects students, startups, and professionals through exciting events, smart team formation, and engaging challenges to streamline hackathons and lead to top talent—fostering direct access opportunities for all.
+          Skill Swipe connects students, recruiters, and professionals through AI-driven job matching, interactive leaderboards, and skill-based networking—bridging the gap between talent and opportunity seamlessly.
           </p>
         </div>
 
@@ -61,13 +61,15 @@ function Footer() {
         <div className="min-h-[150px]">
           <h3 className="font-bold mb-4">HELP AND SUPPORT</h3>
           <p className="text-sm text-gray-700">
-            Plot A2, Block C, Sector 125 Noida - 201303 Delhi NCR
+          Plot XYZ, Block ABC, Sector 125, Noida - 201303, Delhi NCR
+
+
           </p>
           <p className="text-sm text-gray-700">
-            Email: <a href="mailto:info@abs.edu.in" className="hover:text-black">info@abs.edu.in</a>
+            Email: <a href="mailto:info@abs.edu.in" className="hover:text-black">info@abc.edu.in</a>
           </p>
           <p className="text-sm text-gray-700">
-            Phone: <a href="tel:+919650334486" className="hover:text-black">+91 9650334486</a>
+            Phone: <a href="tel:+919650334486" className="hover:text-black">+91 ABCXYZ1234</a>
           </p>
         </div>
       </div>

@@ -24,7 +24,7 @@ function Navigation() {
           SIGN UP
         </button>
         <button className="border border-gray-300 px-4 py-2 rounded-full hover:bg-gray-100 transition-all duration-300">
-          HOST
+          RECRUIT
         </button>
       </div>
     </nav>
